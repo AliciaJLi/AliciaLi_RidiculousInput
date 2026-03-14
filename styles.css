@@ -114,7 +114,7 @@ textarea{
 .belt {
     display: flex;
     gap: 20px;
-    animation: slideInLeft 15s linear infinite;
+    animation: slide 15s linear infinite;
 }
 
 @keyframes slide {
